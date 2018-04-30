@@ -4,7 +4,7 @@ The Institute of Emerging Issues located inside the marvelous James B. Hunt Libr
 
 This project’s aim was to improve the user experience of the huge screen to increase the user base while keeping the content relevant and interesting for different age groups. To achieve the goal, a change of technology was necessary which gave a lot of technological advantages while providing an enhanced user experience. All the design decisions were made based on the current research in the domain of UX. The prototype was developed using the tool - “Figma” which provided the interaction capability. 
 
-##Prototype
+## Prototype
 
 Link: https://www.figma.com/proto/kug0jLQUE9LAePaJWpCdmx/draft_IEI-prototype_final?node-id=5%3A78&scaling=contain
 
